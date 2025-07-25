@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 <p align="center">
   <img src="https://teusite.com/banner.png" alt="Podcast Insonso banner" />
 </p>
