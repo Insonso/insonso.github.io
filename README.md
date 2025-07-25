@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 <p align="center">
   <img src="https://teusite.com/banner.png" alt="Podcast Insonso banner" />
 </p>
@@ -9,8 +8,8 @@ theme: jekyll-theme-minimal
 
 ## 🔗 Segue-nos nas redes:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Insonso-red?logo=youtube&style=for-the-badge)](https://youtube.com/teu_canal)
-[![Spotify](https://img.shields.io/badge/Spotify-Insonso-1DB954?logo=spotify&style=for-the-badge)](https://spotify.com/teu_podcast)
+[![YouTube](https://img.shields.io/badge/YouTube-Insonso-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@guism_24)
+[![Spotify](https://img.shields.io/badge/Spotify-Insonso-1DB954?logo=spotify&style=for-the-badge)](https://open.spotify.com/show/6848Su1eJ8Y1e3xIT8LrTJ?si=b35021fec88544cd)
 [![TikTok](https://img.shields.io/badge/TikTok-@insonso-black?logo=tiktok&style=for-the-badge)](https://tiktok.com/@teu_perfil)
 [![Instagram](https://img.shields.io/badge/Instagram-@insonso-E4405F?logo=instagram&style=for-the-badge)](https://instagram.com/teu_perfil)
 
