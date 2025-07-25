@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://teusite.com/banner.png" alt="Podcast Insonso banner" />
+  <img src="https://github.com/Insonso/insonso.github.io/blob/91e22c342539cad9a61f3fcd7891cf6ac9c4d174/banner_insonso.jpg" alt="Podcast Insonso banner" />
 </p>
 
 # 🎙️ INSONSO
